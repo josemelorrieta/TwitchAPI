@@ -1,0 +1,15 @@
+logging
+https://github.com/gabime/spdlog
+
+argument parser
+https://github.com/jarro2783/cxxopts
+
+cliente IRC
+https://github.com/fredimachado/IRCClient
+
+Token
+oauth:jxkk0ep7s1cluuyxo3wffvv2aup9xg
+
+Ejecutar
+./TwitchAPI irc.chat.twitch.tv 6667
+
